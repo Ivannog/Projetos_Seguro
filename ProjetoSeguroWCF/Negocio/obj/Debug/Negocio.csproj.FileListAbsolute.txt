@@ -1,0 +1,14 @@
+D:\Estudos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll.config
+D:\Estudos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll
+D:\Estudos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.pdb
+D:\Estudos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Estudos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Estudos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.dll
+D:\Estudos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.pdb
+C:\Testes\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll.config
+C:\Testes\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll
+C:\Testes\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.pdb
+C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.dll
+C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.pdb

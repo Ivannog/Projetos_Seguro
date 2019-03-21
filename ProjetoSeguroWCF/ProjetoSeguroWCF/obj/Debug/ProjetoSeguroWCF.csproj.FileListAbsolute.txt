@@ -1,0 +1,14 @@
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csprojAssemblyReference.cache
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csproj.CoreCompileInputs.cache
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll.config
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.pdb
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.dll
+D:\Estudos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.pdb
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll.config
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.pdb
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csprojAssemblyReference.cache
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csproj.CoreCompileInputs.cache
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.dll
+C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.pdb

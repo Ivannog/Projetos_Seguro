@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f04958cb-0f9a-4ae1-913b-7bd2ac5008e5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:46815/CoberturaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CoberturaService.disco" MetadataType="Disco" ID="d54f35d9-6020-4ba7-ac24-2917c18119df" SourceId="1" SourceUrl="http://localhost:46815/CoberturaService.svc?disco" />
+    <MetadataFile FileName="CoberturaService.xsd" MetadataType="Schema" ID="73ee646b-a207-4c2e-a960-8778a95b3e2d" SourceId="1" SourceUrl="http://localhost:46815/CoberturaService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CoberturaService1.xsd" MetadataType="Schema" ID="a7fbbbf0-3f53-461c-a153-80e1d8843b47" SourceId="1" SourceUrl="http://localhost:46815/CoberturaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CoberturaService2.xsd" MetadataType="Schema" ID="48fdd4a8-39a7-49cc-9dc5-082123714133" SourceId="1" SourceUrl="http://localhost:46815/CoberturaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CoberturaService.wsdl" MetadataType="Wsdl" ID="2293f493-2c50-4ca6-8045-f05de2afe864" SourceId="1" SourceUrl="http://localhost:46815/CoberturaService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
