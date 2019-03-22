@@ -45,7 +45,7 @@ namespace ProjetoSeguroWCF.DAO
                 item.Cobertura = cobDAO.ListCoberturas().Where(y => y.IdCobertura == item.IdCobertura).FirstOrDefault();
             }            
 
-            return clientes;
+            return clientes.Distinct().ToList();
 
         }
     }

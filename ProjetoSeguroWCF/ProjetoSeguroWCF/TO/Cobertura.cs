@@ -14,5 +14,8 @@ namespace ProjetoSeguroWCF.TO
 
         [DataMember]
         public string Descricao { get; set; }
+
+        [DataMember]
+        public double Valor { get; set; }
     }
 }

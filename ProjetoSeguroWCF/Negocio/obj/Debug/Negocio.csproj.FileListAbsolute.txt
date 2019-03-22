@@ -12,3 +12,10 @@ C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cac
 C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.dll
 C:\Testes\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.pdb
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll.config
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.dll
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\bin\Debug\Negocio.pdb
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.dll
+D:\Git\Projetos\ProjetoSeguroWCF\Negocio\obj\Debug\Negocio.pdb

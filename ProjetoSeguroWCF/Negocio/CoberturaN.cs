@@ -23,7 +23,8 @@ namespace Negocio
                         new CoberturaViewModel()
                         {
                             IdCobertura = item.IdCobertura,
-                            Descricao = item.Descricao
+                            Descricao = item.Descricao,
+                            Valor = item.Valor
                         }
                     );
 

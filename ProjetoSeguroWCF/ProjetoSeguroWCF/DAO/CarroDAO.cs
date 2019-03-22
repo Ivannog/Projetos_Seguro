@@ -8,18 +8,17 @@ namespace ProjetoSeguroWCF.DAO
 {
     public class CarroDAO
     {
-        private static List<Carro> carros = new List<Carro>();
-
         public List<Carro> ListCar()
         {
-            CarroDAO.carros.Add(new Carro() { IdCarro = 1, Nome = "Vectra" });
-            CarroDAO.carros.Add(new Carro() { IdCarro = 2, Nome = "Azera" });
-            CarroDAO.carros.Add(new Carro() { IdCarro = 3, Nome = "Monza" });
-            CarroDAO.carros.Add(new Carro() { IdCarro = 4, Nome = "Celta" });
-            CarroDAO.carros.Add(new Carro() { IdCarro = 5, Nome = "Cruze" });
-            CarroDAO.carros.Add(new Carro() { IdCarro = 6, Nome = "Gol" });
+            List<Carro> carros = new List<Carro>();
+            carros.Add(new Carro() { IdCarro = 1, Nome = "Vectra" });
+            carros.Add(new Carro() { IdCarro = 2, Nome = "Azera" });
+            carros.Add(new Carro() { IdCarro = 3, Nome = "Monza" });
+            carros.Add(new Carro() { IdCarro = 4, Nome = "Celta" });
+            carros.Add(new Carro() { IdCarro = 5, Nome = "Cruze" });
+            carros.Add(new Carro() { IdCarro = 6, Nome = "Gol" });
 
-            return carros;
+            return carros.Distinct().ToList();
 
 
         }

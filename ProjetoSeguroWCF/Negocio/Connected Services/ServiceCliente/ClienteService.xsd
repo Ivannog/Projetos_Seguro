@@ -28,6 +28,7 @@
     <xs:sequence>
       <xs:element minOccurs="0" name="Descricao" nillable="true" type="xs:string" />
       <xs:element minOccurs="0" name="IdCobertura" type="xs:int" />
+      <xs:element minOccurs="0" name="Valor" type="xs:double" />
     </xs:sequence>
   </xs:complexType>
   <xs:element name="Cobertura" nillable="true" type="tns:Cobertura" />

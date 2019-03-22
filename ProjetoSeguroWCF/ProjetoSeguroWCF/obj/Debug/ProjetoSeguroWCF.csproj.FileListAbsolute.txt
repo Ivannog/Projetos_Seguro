@@ -12,3 +12,10 @@ C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csprojAss
 C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csproj.CoreCompileInputs.cache
 C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.dll
 C:\Testes\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.pdb
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll.config
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.dll
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\bin\ProjetoSeguroWCF.pdb
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csproj.CoreCompileInputs.cache
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.dll
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.pdb
+D:\Git\Projetos\ProjetoSeguroWCF\ProjetoSeguroWCF\obj\Debug\ProjetoSeguroWCF.csprojAssemblyReference.cache

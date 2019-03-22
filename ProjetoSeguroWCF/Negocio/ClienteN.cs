@@ -55,7 +55,7 @@ namespace Negocio
                             IdCarro = item.IdCarro,
                             Carro = new CarroViewModel() { IdCarro = item.IdCarro, Nome = item.Carro.Nome },
                             IdCobertura = item.IdCobertura,
-                            Cobertura = new CoberturaViewModel() { IdCobertura = item.IdCobertura, Descricao = item.Cobertura.Descricao },
+                            Cobertura = new CoberturaViewModel() { IdCobertura = item.IdCobertura, Descricao = item.Cobertura.Descricao, Valor = item.Cobertura.Valor },
                             Nome = item.Nome,
                             CPF = item.Email,
                             Email = item.Email,
